@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, TrackCyclingFreeActivity!</string>
+    <string name="app_name">TrackCyclingFree</string>
+    <string name="gear_prompt">Choose a gear</string>
+    <string name="cog_prompt">Please select cog:</string>
+    <string name="ring_prompt">Please select ring:</string>
+    <string name="wheelmeters_prompt">Please select wheel size (m):</string>
+    <string name="wheelmilles_prompt">Please select wheel size (milles):</string>
+    <string name="lapmeters_prompt">Please select lap size (m):</string>
+    <string name="lapmilles_prompt">Please select lap size (milles):</string>
+    <string name="milles_prompt">milles</string>
+    <string name="m_prompt">m</string>
+    <string name="wheelsize_prompt">2.096</string>
+    <string name="tracksize_prompt">250</string>
+
+</resources>
